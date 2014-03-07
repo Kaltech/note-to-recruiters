@@ -1,11 +1,10 @@
 # Note to Recruiters
 
 ## Introduction
-Recruiting can be time consuming for small companies. There is no specialist team to deal with recruiting. It’s just us. We all have other work to be getting on with. We’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters add workload.
+
+Thank you for your interest in helping us with our hiring.  As you know, recruiting can be a time-consuming process for small companies. To make the process more efficient for everyone involved, we have a standard way of working with recruiters and managing our hiring process.
 
 Please read our rules for working with us below. We don’t want to appear to be difficult to work with (we’re not) but we simply don’t have the time or capacity to manage agencies that don’t want to work with us in this way.
-
-Agencies/Recruiters not following these rules, will get blacklisted. Equally Agencies/Recruiters who stand out will be given preference in future hiring.
 
 ## Policy
 
