@@ -11,13 +11,13 @@ Please read our rules for working with us below. We don’t want to appear to be
 ### Phone Calls
 
 * Please do not call us. We do not take unsolicited calls for recruitment.
-* If we're working regarding a role or candidate, we'll explain how best to contact us about that role/candidate.
+* If we're working together regarding a role or candidate, we'll explain how best to contact us about that role/candidate.
 
 ### How to Start Working With Us
 
 * Please don't email us suggesting a call to discuss our hiring.
 * If you want to know about available jobs, please keep an eye on our jobs page.
-* Each position will have its own specific email address. Please send CVs to that email address for that position only.
+* Each position will have an online application form. Please submit CVs via that form listing the candidate's name and your contact email address.
 * Please read the description of the role carefully and only send appropriate candidates.
 
 ### CVs / Candidates
@@ -28,11 +28,7 @@ Please read our rules for working with us below. We don’t want to appear to be
 
 ### Terms and Conditions
 
-* We will not sign your terms and conditions.
-
 The terms we work to are below:
-
-Important: these Terms supersede any similar terms in individual agency's contracts.
 
 * We will pay 15% of year 1 base salary
 * We will pay within 30 days of invoicing
@@ -41,3 +37,7 @@ Important: these Terms supersede any similar terms in individual agency's contra
 * If a candidate you introduce is already known to us (organically or from a different agency) we will tell you this promptly. No fee will be payable in this circumstance.
 * If the candidate leaves within 12 working weeks of their start date (for any reason, including dismissal), you will try to find a replacement free of charge.
 * If you are unable to find a replacement acceptable to us you will refund 8.3% of your fee for each week of the first 12 the candidate didn't work.
+
+These Terms supersede any similar terms in individual agency's contracts.
+
+We will not sign your terms and conditions.
