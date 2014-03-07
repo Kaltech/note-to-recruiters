@@ -16,7 +16,7 @@ Please read our rules for working with us below. We don’t want to appear to be
 ### How to Start Working With Us
 
 * Please don't email us suggesting a call to discuss our hiring.
-* If you want to know about available jobs, please keep an eye on our jobs page.
+* If you want to know about available jobs, please keep an eye on our [jobs page](https://broadmargins.recruiterbox.com/ "Jobs at Broadmargins").
 * Each position will have an online application form. Please submit CVs via that form listing the candidate's name and your contact email address.
 * Please read the description of the role carefully and only send appropriate candidates.
 
