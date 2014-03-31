@@ -37,7 +37,7 @@ The terms we work to are below:
 * If a candidate you introduce is already known to us (organically or from a different agency) we will tell you this promptly. No fee will be payable in this circumstance.
 * If the candidate leaves within 12 working weeks of their start date (for any reason, including dismissal), you will try to find a replacement free of charge.
 * If you are unable to find a replacement acceptable to us you will refund 8.3% of your fee for each week of the first 12 the candidate didn't work.
-* If we hire a contractor through you and they subsequently go permanent with us, we will pay you 15% of their year 1 base salary less any fees we have paid you in relation to their contract work.
+* If we hire a contractor through you and, within 6 months of the end of their contract, we hire them permanently, then we will pay you 15% of their year 1 base salary less any fees we have paid you in relation to their contract work.
 
 These Terms supersede any similar terms in individual agency's contracts.
 
