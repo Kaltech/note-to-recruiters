@@ -42,3 +42,5 @@ The terms we work to are below:
 These Terms supersede any similar terms in individual agency's contracts.
 
 We will not sign your terms and conditions.
+
+I get this, salaries to work from would also help filter the unrelated candidates.
